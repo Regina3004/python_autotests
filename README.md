@@ -25,7 +25,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image]()
+![image](https://github.com/Regina3004/python_autotests/blob/main/py.png?raw=true)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
